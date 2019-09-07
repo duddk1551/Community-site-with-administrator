@@ -13,7 +13,7 @@ spring:
     username: root
     password: ''
     driver-class-name: net.sf.log4jdbc.sql.jdbcapi.DriverSpy
-    url: jdbc:log4jdbc:mysql://127.0.0.1:3306/a2?autoReconnect=true&useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+    url: jdbc:log4jdbc:mysql://127.0.0.1:3306/a3?autoReconnect=true&useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
   servlet:
     multipart:
       enabled: true
